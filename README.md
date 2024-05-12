@@ -14,12 +14,3 @@
 <p align="left">
   
 </p>
-
-<p align="left">
-  💌 Entre em contato
-</p>
-
-<p align="left">
-  <a href="#" title="https://t.me/marcrof">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  

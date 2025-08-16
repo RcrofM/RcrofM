@@ -1,47 +1,57 @@
-# 👋 Olá! 
 
-## Sobre Mim
+# 👋 Yo, eu sou o **Marcrof**  
 
-🎓 **Graduando em Ciência da Computação**  
-🚗 **Profissional em Engenharia Reversa de Módulos de Injeção de Veículos**  
-🔧 Trabalho com rede CAN e dump de memória
-🐍 Programo em **Python** e **C**  
-☁️ Estudando **DevOps** e **Cloud Computing**
+> _“O que pode ser compilado, pode ser decompilado. O que pode ser fechado, pode ser aberto. O que pode ser oculto, pode ser entendido.”_  
 
 ---
 
-## 💡 Interesses
+## 🧑‍💻 Sobre Mim  
 
-- **Código aberto**: Sou fã de aplicações open source e acredito no poder do compartilhamento de conhecimento.
-- **Pirataria & Torrent**: Ativo em trackers, defensor do acesso livre à informação.
-- **Filosofia & Matemática**: Estudante curioso, sempre buscando novas perspectivas e desafios intelectuais.
-- **Engenharia Reversa**: Apaixonado por desvendar sistemas embarcados, especialmente automotivos.
-
----
-
-## 🔥 Skills
-
-- Assembly x86_64
-- Python, C
-- Engenharia Reversa (hardware & software)
-- Rede CAN de veículos
-- Dump e análise de memória
-- DevOps (em aprendizado)
-- Cloud (em aprendizado)
+- 🎓 Graduando em **Ciência da Computação**  
+- 🚗 Profissional em **Engenharia Reversa de Módulos Automotivos**  
+- 🔧 Trabalho com **rede CAN** e **dumps de memória**  
+- 🐍 Programo em **Python & C**  
+- ⚡ Fascinado por **baixo nível, assembly e sistemas embarcados**  
+- ☁️ Aprendendo **DevOps & Cloud**  
 
 ---
 
-## 🌐 Onde Me Encontrar
+## 🚀 Stack & Skills  
 
-- [Bluesky](https://bsky.app/profile/marcrof.bsky.social)
-- [X (Twitter)](https://x.com/RcrofM)
-- [Telegram](https://t.me/bytelain)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)  
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logo=probot&logoColor=white)  
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-A020F0?style=for-the-badge&logo=automattic&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![Cloud](https://img.shields.io/badge/Cloud-1F425F?style=for-the-badge&logo=icloud&logoColor=white)  
 
 ---
 
-## ✨ Fun Facts
+## 💡 Interesses  
 
-- Amante da "pirataria filosófica": acredito que o conhecimento deve ser livre!
-- Participante ativo em comunidades de torrent e código aberto.
-- Buscando entender a fundo como as coisas funcionam — do bit à filosofia.
+- 📂 **Open Source & Pirataria Filosófica**  
+- ⚙️ **Car Hacking & Engenharia Reversa**  
+- 🌀 **Matemática, Filosofia & Neurologia**  
+- 🔮 **Sistemas complexos & consciência**  
 
+---
+
+## 🌐 Onde Me Encontrar  
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0288D1?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/marcrof.bsky.social)  
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RcrofM)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytelain)  
+
+---
+
+## 🖤 Extras  
+
+- 🎭 **Underground + Profissional**: vivo no cruzamento entre filosofia, hacking e código.  
+- 🔍 Curioso ao extremo: do bit à consciência.  
+- 🕶️ Fascinado por tudo que conecta **máquinas, redes e cérebros**.  
+- 🌀 Inspiração estética: _Serial Experiments Lain_  
+
+---
+
+<!-- Footer com glitchy vibe -->

@@ -4,7 +4,7 @@
 
 🎓 **Graduando em Ciência da Computação**  
 🚗 **Profissional em Engenharia Reversa de Módulos de Injeção de Veículos**  
-🔧 Trabalho com rede CAN e dump de memória**  
+🔧 Trabalho com rede CAN e dump de memória
 🐍 Programo em **Python** e **C**  
 ☁️ Estudando **DevOps** e **Cloud Computing**
 

@@ -1,7 +1,14 @@
+<!-- Banner GIF -->
+<p align="center">
+  <!-- troca o link abaixo pelo GIF que tu quiser -->
+  <img src="https://i.gifer.com/7VE.gif" width="600" alt="glitch banner">
+</p>
 
 # 👋 Yo, eu sou o **Marcrof**  
 
-> _“O que pode ser compilado, pode ser decompilado. O que pode ser fechado, pode ser aberto. O que pode ser oculto, pode ser entendido.”_  
+> _“O que pode ser compilado, pode ser decompilado.  
+> O que pode ser fechado, pode ser aberto.  
+> O que pode ser oculto, pode ser entendido.”_  
 
 ---
 
@@ -9,7 +16,7 @@
 
 - 🎓 Graduando em **Ciência da Computação**  
 - 🚗 Profissional em **Engenharia Reversa de Módulos Automotivos**  
-- 🔧 Trabalho com **rede CAN** e **dumps de memória**  
+- 🔧 Experiência com **rede CAN** e **dumps de memória**  
 - 🐍 Programo em **Python & C**  
 - ⚡ Fascinado por **baixo nível, assembly e sistemas embarcados**  
 - ☁️ Aprendendo **DevOps & Cloud**  
@@ -20,7 +27,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=probot&logoColor=white)  
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-000000?style=for-the-badge&logo=probot&logoColor=white)  
 ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-A020F0?style=for-the-badge&logo=automattic&logoColor=white)  
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)  
@@ -54,4 +61,16 @@
 
 ---
 
-<!-- Footer com glitchy vibe -->
+<!-- Terminal Fake -->
+```bash
+> cat about_me.txt
+Graduando em Ciência da Computação
+Engenharia Reversa Automotiva
+Python | C | Assembly
+Filosofia | Matemática | Neurologia
+---
+
+> ./run_philosophy.sh
+[INFO] knowledge wants to be free...
+[INFO] connection established
+[OK] system ready: awaiting next hack_

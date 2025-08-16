@@ -1,16 +1,47 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# 👋 Olá! 
 
-<p align="left"> 
- Estudante de Ciência da computação(Graduação), mas também estudo fora a parte matemática, filosofia, física e eletrõnica (experiência profissional)
-</p>
+## Sobre Mim
 
-<p align="center">
+🎓 **Graduando em Ciência da Computação**  
+🚗 **Profissional em Engenharia Reversa de Módulos de Injeção de Veículos**  
+🔧 Trabalho com rede CAN, dump de memória e análise em **Assembly x86_64**  
+🐍 Programo em **Python** e **C**  
+☁️ Estudando **DevOps** e **Cloud Computing**
 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
+---
 
+## 💡 Interesses
 
-<p align="left">
-  
-</p>
+- **Código aberto**: Sou fã de aplicações open source e acredito no poder do compartilhamento de conhecimento.
+- **Pirataria & Torrent**: Ativo em trackers, defensor do acesso livre à informação.
+- **Filosofia & Matemática**: Estudante curioso, sempre buscando novas perspectivas e desafios intelectuais.
+- **Engenharia Reversa**: Apaixonado por desvendar sistemas embarcados, especialmente automotivos.
+
+---
+
+## 🔥 Skills
+
+- Assembly x86_64
+- Python, C
+- Engenharia Reversa (hardware & software)
+- Rede CAN de veículos
+- Dump e análise de memória
+- DevOps (em aprendizado)
+- Cloud (em aprendizado)
+
+---
+
+## 🌐 Onde Me Encontrar
+
+- [Bluesky](https://bsky.app/profile/marcrof.bsky.social)
+- [X (Twitter)](https://x.com/RcrofM)
+- [Telegram](https://t.me/bytelain)
+
+---
+
+## ✨ Fun Facts
+
+- Amante da "pirataria filosófica": acredito que o conhecimento deve ser livre!
+- Participante ativo em comunidades de torrent e código aberto.
+- Buscando entender a fundo como as coisas funcionam — do bit à filosofia.
+

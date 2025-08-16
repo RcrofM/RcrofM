@@ -4,14 +4,6 @@
 </p>
 
 
-# 👋 Yo, eu sou o **Marcrof**  
-
-> _“O que pode ser compilado, pode ser decompilado.  
-> O que pode ser fechado, pode ser aberto.  
-> O que pode ser oculto, pode ser entendido.”_  
-
----
-
 ## 🧑‍💻 Sobre Mim  
 
 - 🎓 Graduando em **Ciência da Computação**  

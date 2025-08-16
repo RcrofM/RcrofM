@@ -1,6 +1,6 @@
 <!-- Banner GIF - Lain vibe -->
 <p align="center">
-  <img src="LINK_DO_GIF" width="600" alt="Lain vibe banner">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1ua2J6YjFseGo1ZW0yOW4xdjYxcmxtdDhxOGlkMHlpdmdycW92MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/112CeAWuyhQX1C/giphy.gif" width="600" alt="Lain vibe banner">
 </p>
 
 

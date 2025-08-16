@@ -1,8 +1,8 @@
-<!-- Banner GIF -->
+<!-- Banner GIF - Lain vibe -->
 <p align="center">
-  <!-- troca o link abaixo pelo GIF que tu quiser -->
-  <img src="https://i.gifer.com/7VE.gif" width="600" alt="glitch banner">
+  <img src="LINK_DO_GIF" width="600" alt="Lain vibe banner">
 </p>
+
 
 # 👋 Yo, eu sou o **Marcrof**  
 

@@ -29,7 +29,7 @@
 
 ## 💡 Interesses  
 
-- 📂 **Open Source & Pirataria Filosófica**  
+- 📂 **Open Source & Pirataria**  
 - ⚙️ **Car Hacking & Engenharia Reversa**  
 - 🌀 **Matemática, Filosofia & Neurologia**  
 - 🔮 **Sistemas complexos & consciência**  
@@ -41,28 +41,5 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0288D1?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/marcrof.bsky.social)  
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RcrofM)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytelain)  
+ 
 
----
-
-## 🖤 Extras  
-
-- 🎭 **Underground + Profissional**: vivo no cruzamento entre filosofia, hacking e código.  
-- 🔍 Curioso ao extremo: do bit à consciência.  
-- 🕶️ Fascinado por tudo que conecta **máquinas, redes e cérebros**.  
-- 🌀 Inspiração estética: _Serial Experiments Lain_  
-
----
-
-<!-- Terminal Fake -->
-```bash
-> cat about_me.txt
-Graduando em Ciência da Computação
-Engenharia Reversa Automotiva
-Python | C | Assembly
-Filosofia | Matemática | Neurologia
----
-
-> ./run_philosophy.sh
-[INFO] knowledge wants to be free...
-[INFO] connection established
-[OK] system ready: awaiting next hack_
